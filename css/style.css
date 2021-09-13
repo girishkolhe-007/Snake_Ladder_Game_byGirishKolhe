@@ -1,0 +1,32 @@
+body {
+  background-image: url('img/187161.jpg');
+}
+
+#gk1 , #gk2 , #gk3 , #gk5 , #gk6 , #gk7 , #gk8 , #gk10 , #gk21 , #gk22 , #gk23 , #gk24 , #gk25 , #gk26 , #gk27 , #gk29 , #gk30 ,
+#gk41 , #gk42 , #gk43 , #gk44 , #gk45 , #gk46 , #gk47 , #gk48 , #gk49 , #gk50 ,#gk61 , #gk65 , #gk66 , #gk67 , #gk68 , #gk69 ,
+#gk70 , #gk81 , #gk82 , #gk83 , #gk84 , #gk85 , #gk86 , #gk88 , #gk89 , #gk90
+{
+  background-color: green;
+}
+
+#gk11 , #gk12 , #gk13 , #gk14 , #gk15 , #gk16 , #gk18 , #gk19  ,#gk31 , #gk32 , #gk33 , #gk34 , #gk35 , #gk36 , #gk37 , #gk38 ,
+#gk39  , #gk52 , #gk53 , #gk55 , #gk56 , #gk57 , #gk58 , #gk59 , #gk60 , #gk72 , #gk73 , #gk74 , #gk75 , #gk76 , #gk77 , #gk78 , 
+#gk79 , #gk80 , #gk91 , #gk92 , #gk94 , #gk96 , #gk97 , #gk98 , #gk100
+{
+  background-color: skyblue;
+}
+
+#gk4, #gk9 , #gk20, #gk28, #gk40 , #gk51, #gk63, #gk71
+{
+  background-color: white;
+}
+
+#gk17, #gk54, #gk62, #gk64, #gk87, #gk93, #gk95, #gk99
+{
+  background-color: grey;
+}
+
+#ply1, #ply2
+{
+  width:50px;height:50px;font-size: 25px; color: orangered;
+}
