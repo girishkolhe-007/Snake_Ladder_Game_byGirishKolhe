@@ -1,0 +1,71 @@
+#m1
+{
+	background-color: white;
+	width: 99%;
+	padding: 6px;
+	border-radius: 4px;
+}
+#m2
+{
+	margin-left: 7%;
+}
+#m2:hover
+{color: white;
+ font-size: 17px;}
+#m3
+{
+	padding: 5px;
+	background-color: #E5E4E2;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-radius: 5px;
+}
+#m3:hover
+{
+	background-color: yellowgreen;
+	color: white;
+}
+#m4
+{
+	position: relative;
+	text-align: center;
+	padding: 6px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 99%;
+	margin-top: 24%;
+	color: white;
+	background-color: black;
+	border-radius: 4px;
+}
+#m5,#m6
+{
+	border: none;
+	padding: 10px;
+	opacity: 0.6;
+}
+#m7
+{
+	border: none;
+	padding: 10px;
+	color: white;
+	background-color: black;
+	opacity: 0.6;
+	border-radius: 3px;
+}
+#m5:hover,#m6:hover,#m7:hover
+{
+	opacity: 1;
+}
+#abouts
+{
+	padding: 30px;
+	background-color: rgb(213, 248, 203);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+	width: 40%;
+	border-radius: 10px;
+	font-size: 20px;
+	border-color: white;
+}
